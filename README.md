@@ -12,10 +12,10 @@
 
 ## 💫 About Me
 
-* 🎓 **Academic Background**: B.Tech student in Computer Science/Engineering at **Thiagarajar College of Engineering, Madurai** (CGPA: 8.18/10)[cite: 1].
-* 🔬 **Research Experience**: Completed a Summer Research Internship at **National Institute of Technology, Trichy**, specializing in *Ocular Disease Classification Using Deep Learning*[cite: 1].
-* 🛡️ **Cybersecurity Focused**: Active in software penetration testing and advanced web vulnerability research using tools like **Burp Suite**[cite: 1].
-* ⚡ **Driven by Impact**: Natural team lead and UI/UX specialist focused on crafting user-centric, secure digital ecosystems[cite: 1].
+* 🎓 **Academic Background**: B.Tech student in Computer Science/Engineering at **Thiagarajar College of Engineering, Madurai** (CGPA: 8.18/10).
+* 🔬 **Research Experience**: Completed a Summer Research Internship at **National Institute of Technology, Trichy**, specializing in *Ocular Disease Classification Using Deep Learning*.
+* 🛡️ **Cybersecurity Focused**: Active in software penetration testing and advanced web vulnerability research using tools like **Burp Suite**.
+* ⚡ **Driven by Impact**: Natural team lead and UI/UX specialist focused on crafting user-centric, secure digital ecosystems.
 
 ---
 
@@ -54,14 +54,14 @@
 ## 🚀 Key Engineering Projects
 
 ### 📱 TCE Vehicle Booking App 
-> **Stack**: *Flutter, Firebase, Node.js, GitHub Actions*[cite: 1]
-* Engineered a role-based management infrastructure allowing faculty to request transportation and administrators to dynamically assign drivers[cite: 1].
-* Integrated automated real-time notification pathways via Email and WhatsApp to optimize internal communication[cite: 1].
+> **Stack**: *Flutter, Firebase, Node.js, GitHub Actions*
+* Engineered a role-based management infrastructure allowing faculty to request transportation and administrators to dynamically assign drivers.
+* Integrated automated real-time notification pathways via Email and WhatsApp to optimize internal communication.
 
 ### 🍕 e-Food Ecosystem
-> **Stack**: *HTML, CSS, JavaScript, PHP, MySQL, XAMPP*[cite: 1]
-* Designed and deployed a modular online food ordering portal supporting custom dashboards for customers, delivery fleets, and store administrators[cite: 1].
-* Formulated real-time status flows along with automated media validation features for delivery validation[cite: 1].
+> **Stack**: *HTML, CSS, JavaScript, PHP, MySQL, XAMPP*
+* Designed and deployed a modular online food ordering portal supporting custom dashboards for customers, delivery fleets, and store administrators.
+* Formulated real-time status flows along with automated media validation features for delivery validation.
 
 ---
 
@@ -72,10 +72,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshwarlal&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
-<!-- 100% RELIABLE LEETCODE PROFILE WIDGET -->
 <p align="center">
-  <a href="https://leetcode.com/u/vigneshwarlal/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/vigneshwarlal?theme=dark&font=Fira%20Code&ext=activity" width="97%" alt="LeetCode Stats Matrix" />
+  <a href="https://leetcode.com/u/VIGNESH_WARLAL/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/VIGNESH_WARLAL?theme=dark&font=Fira%20Code&ext=activity" width="97%" alt="LeetCode Stats Matrix" />
   </a>
 </p>
 
