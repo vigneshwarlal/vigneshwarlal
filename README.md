@@ -14,7 +14,7 @@
 
 * 🎓 **Academic Background**: B.Tech student in Computer Science/Engineering at **Thiagarajar College of Engineering, Madurai** (CGPA: 8.18/10).
 * 🔬 **Research Experience**: Completed a Summer Research Internship at **National Institute of Technology, Trichy**, specializing in *Ocular Disease Classification Using Deep Learning*.
-* 🛡️ **Cybersecurity Focused**: Active in software penetration testing and advanced web vulnerability research.
+* 🛡️ **Cybersecurity Focused**: Active in software penetration testing and advanced web vulnerability research using tools like Burp Suite.
 * ⚡ **Driven by Impact**: Natural team lead and UI/UX specialist focused on crafting user-centric, secure digital ecosystems.
 
 ---
@@ -24,7 +24,7 @@
 ### 💻 Core Languages & Platforms
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,kotlin,js,html,css" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,js,html,css" alt="Languages" />
   </a>
 </p>
 
@@ -57,16 +57,19 @@
 * Designed and deployed a modular online food ordering portal supporting custom dashboards for customers, delivery fleets, and store administrators.
 * Formulated real-time status flows along with automated media validation features for delivery validation.
 
-### 🌐 Smart Security & Advanced Logic
-* Deeply invested in exploring core systems architecture, game theory mechanics (Minimax, A* pathfinding), and critical web application vulnerability mitigation.
-
 ---
 
-## 📊 Analytics & Performance Tracker
+## 📊 Analytics & LeetCode Performance Tracker
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vigneshwarlal&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshwarlal&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/vigneshwarlal/" target="_blank">
+    <img src="https://github-readme-leetcode-card.romitsagu.com/vigneshwarlal?theme=tokyonight&show=graph,recent&hide_border=true" width="97%" alt="Vigneshwar's LeetCode Metrics" />
+  </a>
 </p>
 
 <p align="center">
