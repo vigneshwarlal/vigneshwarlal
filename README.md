@@ -1,51 +1,68 @@
-# Hi there, I'm Vigneshwar Lal! 👋 🚀
+# Hello World, I'm Vigneshwar Lal B M 👋 🚀
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=43A6F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=246BFD&center=true&vCenter=true&width=600&lines=Software+Engineer;Mobile+%26+Web+Developer;Cybersecurity+Enthusiast;Machine+Learning+Researcher" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF">
+  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&height=200&section=header&text=Building%20Secure%20%26%20Scalable%20Solutions&fontSize=26&animation=twinkling" alt="Header Banner" />
 </p>
 
 ---
 
 ## 💫 About Me
 
-* 🔭 I’m currently working on sharpening my full-stack development skills.
-* 🌱 I’m currently learning deeper architectures, cloud deployment, and system design.
-* 👯 I’m looking to collaborate on open-source projects and innovative web applications.
-* 💬 Ask me about anything related to tech, coding, or web development!
-* ⚡ Fun fact: I believe that coffee + music = code magic. ☕🎵
+* 🎓 **Academic Background**: B.Tech student in Computer Science/Engineering at **Thiagarajar College of Engineering, Madurai** (CGPA: 8.18/10).
+* 🔬 **Research Experience**: Completed a Summer Research Internship at **National Institute of Technology, Trichy**, specializing in *Ocular Disease Classification Using Deep Learning*.
+* 🛡️ **Cybersecurity Focused**: Active in software penetration testing and advanced web vulnerability research.
+* ⚡ **Driven by Impact**: Natural team lead and UI/UX specialist focused on crafting user-centric, secure digital ecosystems.
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Technical Arsenal
 
-### 🌐 Frontend & UI
+### 💻 Core Languages & Platforms
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,kotlin,js,html,css" alt="Languages" />
   </a>
 </p>
 
-### ⚙️ Backend & Database
+### ⚙️ Frameworks & Databases
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" />
+    <img src="https://skillicons.dev/icons?i=flutter,nodejs,firebase,mongodb,mysql,php" alt="Frameworks" />
   </a>
 </p>
 
-### 🧰 Tools & Dev Ops
+### 🛡️ Dev Tools & Security Suite
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws,vercel" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman" alt="Tools" />
   </a>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=Burp-Suite&logoColor=white" alt="Burp Suite" />
 </p>
 
 ---
 
-## 📊 GitHub Stats & Streak
+## 🚀 Key Engineering Projects
+
+### 📱 TCE Vehicle Booking App 
+> **Stack**: *Flutter, Firebase, Node.js, GitHub Actions*
+* Engineered a role-based management infrastructure allowing faculty to request transportation and administrators to dynamically assign drivers.
+* Integrated automated real-time notification pathways via Email and WhatsApp to optimize internal communication.
+
+### 🍕 e-Food Ecosystem
+> **Stack**: *HTML, CSS, JavaScript, PHP, MySQL, XAMPP*
+* Designed and deployed a modular online food ordering portal supporting custom dashboards for customers, delivery fleets, and store administrators.
+* Formulated real-time status flows along with automated media validation features for delivery validation.
+
+### 🌐 Smart Security & Advanced Logic
+* Deeply invested in exploring core systems architecture, game theory mechanics (Minimax, A* pathfinding), and critical web application vulnerability mitigation.
+
+---
+
+## 📊 Analytics & Performance Tracker
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vigneshwarlal&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="GitHub Stats" />
@@ -58,20 +75,17 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🤝 Let's Collaborate
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/vigneshwarlal-b-m-781802331/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:vigneshwarlalvigneshwarlal9@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vigneshwarlal&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=vigneshwarlal&color=246BFD&style=flat-square" alt="Profile Views" />
 </p>
