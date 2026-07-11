@@ -1,7 +1,7 @@
 <!-- BRIGHT & RADIANT TECH GRADIENT HEADER BANNER -->
 <div align="center">
   <div style="background: linear-gradient(135deg, #00F2FE 0%, #4FACFE 50%, #7F00FF 100%); padding: 45px 20px; border-radius: 15px; margin-bottom: 20px; box-shadow: 0 6px 20px rgba(79,172,254,0.45);">
-    <h1 style="color: white; font-family: 'Fira Code', monospace; margin: 0; font-size: 38px; font-weight: 800; letter-spacing: 1.5px; text-shadow: 0 2px 4px rgba(0,0,0,0.15);">VIGNESHWAR LAL B M</h1>
+    <h1 style="color: white; font-family: 'Fira Code', monospace; margin: 0; font-size: 38px; font-weight: 800; letter-spacing: 1.5px; text-shadow: 0 2px 4px rgba(0,0,0,0.15);">VIGNESHWARLAL B M</h1>
     <p style="color: #ffffff; font-family: 'Fira Code', monospace; margin: 12px 0 0 0; font-size: 19px; font-weight: 500; letter-spacing: 0.5px;">Building Secure & Scalable Digital Ecosystems</p>
   </div>
 </div>
@@ -17,9 +17,9 @@
 <table width="100%">
   <tr>
     <td width="60%" valign="top">
-      <p>🚀 I am a driven Computer Science & Engineering professional focusing on building high-performance, secure digital infrastructures. My expertise spans scalable full-stack web applications, cross-platform mobile architecture, and targeted penetration testing.</p>
+      <p>🚀 I am a driven Information Technology Student professional focusing on building high-performance, secure digital infrastructures. My expertise spans scalable full-stack web applications, cross-platform mobile architecture, and targeted penetration testing.</p>
       <ul>
-        <li>🎓 <b>Education:</b> B.Tech in CSE at <b>Thiagarajar College of Engineering, Madurai</b> (CGPA: 8.18/10)</li>
+        <li>🎓 <b>Education:</b> B.Tech in IT at <b>Thiagarajar College of Engineering, Madurai</b> (CGPA: 8.18/10)</li>
         <li>🔬 <b>Research:</b> Deep Learning Research Intern at <b>National Institute of Technology, Trichy</b> (Ocular Disease Classification)</li>
         <li>🛡️ <b>Security focus:</b> Web application penetration testing, vulnerability analysis, and API auditing using Burp Suite.</li>
       </ul>
