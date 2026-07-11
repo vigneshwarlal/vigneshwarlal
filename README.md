@@ -1,7 +1,7 @@
 <div align="center">
-  <div style="background: linear-gradient(135deg, #00c6ff 0%, #0072ff 100%); padding: 40px 20px; border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0,114,255,0.3);">
-    <h1 style="color: white; font-family: 'Fira Code', monospace; margin: 0; font-size: 36px; letter-spacing: 1px;">VIGNESHWAR LAL B M</h1>
-    <p style="color: rgba(255,255,255,0.9); font-family: 'Fira Code', monospace; margin: 10px 0 0 0; font-size: 18px;">Building Secure & Scalable Digital Ecosystems</p>
+  <div style="background: linear-gradient(135deg, #00F2FE 0%, #4FACFE 50%, #7F00FF 100%); padding: 45px 20px; border-radius: 15px; margin-bottom: 20px; box-shadow: 0 6px 20px rgba(79,172,254,0.45);">
+    <h1 style="color: white; font-family: 'Fira Code', monospace; margin: 0; font-size: 38px; font-weight: 800; letter-spacing: 1.5px; text-shadow: 0 2px 4px rgba(0,0,0,0.15);">VIGNESHWAR LAL B M</h1>
+    <p style="color: #ffffff; font-family: 'Fira Code', monospace; margin: 12px 0 0 0; font-size: 19px; font-weight: 500; letter-spacing: 0.5px;">Building Secure & Scalable Digital Ecosystems</p>
   </div>
 </div>
 
@@ -18,7 +18,7 @@
     <td width="60%" valign="top">
       <p>🚀 I am a driven Computer Science & Engineering professional focusing on building high-performance, secure digital infrastructures. My expertise spans scalable full-stack web applications, cross-platform mobile architecture, and targeted penetration testing.</p>
       <ul>
-        <li>🎓 <b>Education:</b> B.Tech in CSE at <b>Thiagarajar College of Engineering, Madurai</b> (CGPA: 8.18/10) [cite: 3, 8]</li>
+        <li>🎓 <b>Education:</b> B.Tech in CSE at <b>Thiagarajar College of Engineering, Madurai</b> (CGPA: 8.18/10) [cite: 8]</li>
         <li>🔬 <b>Research:</b> Deep Learning Research Intern at <b>National Institute of Technology, Trichy</b> (Ocular Disease Classification) [cite: 33, 34, 37]</li>
         <li>🛡️ <b>Security focus:</b> Web application penetration testing, vulnerability analysis, and API auditing using Burp Suite[cite: 10, 13].</li>
       </ul>
@@ -57,15 +57,15 @@
 
 ## 🚀 Featured Engineering Projects
 
-### 📱 TCE Vehicle Booking Ecosystem
+### [cite_start]📱 TCE Vehicle Booking Ecosystem [cite: 25]
 > [cite_start]**Architecture:** Flutter, Firebase, Node.js, GitHub Actions CI/CD [cite: 25]
 * [cite_start]Developed an enterprise logistics workflow enabling faculty vehicle scheduling paired with full administrative resource assignment pipelines[cite: 27, 28].
 * [cite_start]Built real-time, automated transactional notification systems routed through unified WhatsApp and Email API Gateways[cite: 29].
 
-### 🍕 e-Food Enterprise Platform
+### [cite_start]🍕 e-Food Enterprise Platform [cite: 17]
 > [cite_start]**Architecture:** JavaScript, PHP, MySQL, CSS3, XAMPP Matrix [cite: 17]
 * [cite_start]Built a complete e-commerce infrastructure supporting role-segregated control panels for clients, delivery fleets, and super administrators[cite: 20].
-* [cite_start]Formulated transactional tracking workflows featuring data integrity checks and media upload logs for delivery verification[cite: 21, 22, 23, 24].
+* [cite_start]Formulated transactional tracking workflows featuring data integrity checks and media upload logs for delivery verification[cite: 21, 22, 23].
 
 ---
 
@@ -73,7 +73,7 @@
 
 <div align="center">
   <a href="https://leetcode.com/u/VIGNESH_WARLAL/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/VIGNESH_WARLAL?theme=dark&font=Fira%20Code&ext=activity" width="100%" alt="LeetCode Metrics Console" />
+    <img src="https://leetcard.jacoblin.cool/VIGNESH_WARLAL?theme=light&font=Fira%20Code&ext=activity" width="100%" alt="LeetCode Metrics Console" />
   </a>
 </div>
 
